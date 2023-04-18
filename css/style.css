@@ -26,6 +26,9 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+    padding: 10px;
+
+    /* padding is my style */
 }
 
 ol, ul {
@@ -48,16 +51,12 @@ table {
 }
 
 /**** END OF BASE STYLE **/
-body {
-    padding: 10px;
-}
+
 h1 {
     font-size: 150%;
+    margin-bottom: 10px;
 }
+
 ul{
     margin-bottom: 10px;
-}
-h1{
-    margin-bottom: 10px;
-
 }
