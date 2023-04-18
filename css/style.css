@@ -48,44 +48,16 @@ table {
 }
 
 /**** END OF BASE STYLE **/
-
-* {
-    box-sizing: border-box;
+body {
+    padding: 10px;
 }
-
-
-nav ul li {
-    display: inline;
-    list-style-type: none;
-    background-color: #ffd700;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #6a5a00;
-    padding-right: 15px;
-    text-align: center;
-
-}
-
 h1 {
-    text-align: center;
-    color: #6a5a00;
+    font-size: 150%;
 }
-
-form {
-    min-width: 30%;
-    max-width: 70%;
-    background-color: #ffd700;
-    padding: 15px;
-    margin-right: auto;
-    margin-left: auto;
+ul{
+    margin-bottom: 10px;
 }
+h1{
+    margin-bottom: 10px;
 
-form label {
-    margin-right: 25px;
-}
-
-form input {
-    margin-bottom: 5px;
 }
